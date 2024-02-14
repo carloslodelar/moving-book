@@ -3,7 +3,7 @@ cover: .gitbook/assets/cardano.png
 coverY: -223
 ---
 
-# Welcome! (worked?)
+# Welcome!
 
 Welcome to the course on Cardano node and Cardano CLI! This course is designed to equip you with the knowledge and skills necessary to use the Cardano node and Cardano CLI as an end user, a stake pool operator, a governance actor, or a DApp developer. By the conclusion of this course, you will possess a solid understanding of how to use the Cardano node and Cardano CLI across a wide range of roles and scenarios.
 
@@ -19,6 +19,7 @@ Welcome to the course on Cardano node and Cardano CLI! This course is designed t
 * Monitoring nodes
 * Running SMASH and token metadata servers
 * Understanding the functioning of new features.
+* Governance features coming with Conway era
 
 ### Course structure
 
