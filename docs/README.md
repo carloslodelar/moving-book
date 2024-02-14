@@ -11,13 +11,13 @@ Welcome to the course on Cardano node and Cardano CLI! This course is designed t
 
 * Building and running the Cardano node in various environments
 * Cardano protocol parameters and configuration files
-* Creating transactions involving ada, native assets, simple scripts, and Plutus smart contracts&#x20;
+* Creating transactions involving ada, native assets, simple scripts, and Plutus smart contracts
 * Understanding Cardano governance and creating update proposals
-* Establishing your own testnet and utilizing update proposals to transition from Byron to the latest era&#x20;
+* Establishing your own testnet and utilizing update proposals to transition from Byron to the latest era
 * Exploring peer-to-peer (P2P) topology
 * Using the new tracing system for the Cardano node
 * Monitoring nodes
-* Running SMASH and token metadata servers&#x20;
+* Running SMASH and token metadata servers
 * Understanding the functioning of new features.
 
 ### Course structure
